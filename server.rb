@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/home' do
-  erb :index
+get '/portfolio' do
+  erb :portfolio
 end
